@@ -8,6 +8,6 @@ Movements - up, down, left, and right
 Jump - spacebar
 
 game created by:
-Amanpreet Gill - agill292@uwo.ca
-Daniel Lou - dlou6@uwo.ca
 Muhammad Askri - maskri@uwo.ca
+Amanpreet Gill - agill292@uwo.ca
+Daniel Lou - dlou6@uwo.caS
